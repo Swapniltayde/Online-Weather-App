@@ -1,1 +1,1 @@
-Hello Everyone, I'm very exited to shere that i made a online weather app by using this technology like html, css, javascript etc, and make a professional website. also you can visit my github profile and see my effort, Thank you.
+Hello Everyone, I'm very excited to share that I made an online weather app by using technology like HTML, CSS, JavaScript, etc, and made a professional website. also, you can visit my GitHub profile and see my effort, Thank you.
