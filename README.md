@@ -1,1 +1,6 @@
-Hello Everyone, I'm very excited to share that I made an online weather app by using technology like HTML, CSS, JavaScript, etc, and made a professional website. also, you can visit my GitHub profile and see my effort, Thank you.
+NAME: SWAPNIL AJIT TAYDE
+COMPANY: CODTECH IT SOLUTION 
+ID: CT08PD835
+DOMAIN: WEB DEVELOPMENT
+DURATION: MAY TO JUNE 2024
+MENTOR: SRAVANI GOUNI
